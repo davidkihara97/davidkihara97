@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @davidkihara97 i am building AfriGadget Hub
+- 👋 Hi, I’m David Kihara i am building AfriGadget Hub
 
